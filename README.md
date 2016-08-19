@@ -3,4 +3,4 @@
 use for filter sensitive words
  
 #TemplateUI.lua 
-quick create UI
+quickly create UI
